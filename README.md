@@ -9,6 +9,7 @@
 ## Unit II
 ### Advanced Graphics
 - [Transition](https://github.com/chhetri-aryan/android-transition)
+- [Animations](https://github.com/chhetri-aryan/android-animation)
 
 ## Unit III
 ### Advanced Networking with Retrofit
