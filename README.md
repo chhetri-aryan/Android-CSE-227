@@ -8,8 +8,8 @@
 
 ## Unit II
 ### Advanced Graphics
-- [Transition](https://github.com/chhetri-aryan/android-transition)
-- [Animations using Intent](https://github.com/chhetri-aryan/android-animation)
+- [Transition using Intent](https://github.com/chhetri-aryan/android-transition)
+- [Animations](https://github.com/chhetri-aryan/android-animation)
 - [Animations using animation list](https://github.com/chhetri-aryan/Animation2)
 
 ## Unit III
