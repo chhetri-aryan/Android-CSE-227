@@ -2,6 +2,7 @@
 🌟 Your Ultimate Guide to Mastery
 ## Unit I
 ### Building Cloud-Enabled Applications with Firebase
+- [Firebase Email Authentication](https://github.com/chhetri-aryan/Firebase_email)
 - [Google Authentication](https://github.com/chhetri-aryan/GoogleAuth)
 - [Realtime Database](https://github.com/chhetri-aryan/RealtimeDb)
 - [Firebase Notification](https://github.com/chhetri-aryan/FCM-Notification)
