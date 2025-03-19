@@ -13,9 +13,12 @@
 - [Animations](https://github.com/chhetri-aryan/android-animation)
 - [Animations using animation list](https://github.com/chhetri-aryan/Animation2)
 - [Canvas](https://github.com/chhetri-aryan/canvas)
+- [Indian Flag with Canvas]()
 
 ## Unit III
 ### Advanced Networking with Retrofit
+- [News API](https://github.com/chhetri-aryan/Retrofit_News_API)
+- [Weather API]()
 
 ## Unit IV
 ### Sensors
